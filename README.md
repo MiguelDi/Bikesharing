@@ -22,7 +22,7 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
 ### Trips by Weekday for each Hour
 
 There is a steady use of citibikes on weekends between the hours of 8 am and 8 pm with slightly more usage on Saturdays.  Density for citibike use during weekdays focuses primarily during what are considered normal rush hours.
-![](resources/Trips_by_Weekday_for_each_Hour.png.png)
+![](resources/Trips_by_Weekday_for_each_Hour.png)
 
 ### Checkout Time for Users By Genders
 
