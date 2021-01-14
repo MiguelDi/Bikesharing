@@ -15,7 +15,7 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
  - Tableau 2020.4
 
 ## Tableau Link
-
+[Tableau Link:Challenge](https://public.tableau.com/shared/KT8XG2XXM?:display_count=y&:origin=viz_share_link)
 
 ## Graph Summary
 
@@ -71,3 +71,7 @@ Vast majority of subscribers are more likely to be in their mid 20's.  There is 
 - Why is here is a sharp uptik of subscribers in their mid 50's then a rapid decline of subscribers for those in their mid 40's?
 
 
+### Summary 
+- Currently have no data on the gender of 5,699 riders. Recomend requesting gender identification from all users in order to verify market potential for female riders. 
+- Graphic verifying number of riders using service for commute and or leisure.
+- Graphic illustrating where each rider group is graphically based.  Is there a correlation between where riders live and or work?.
