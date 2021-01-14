@@ -15,7 +15,7 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
  - Tableau 2020.4
 
 ## Tableau Link
-[Tableau Link:Challenge](hhttps://public.tableau.com/profile/miguel.diaz4300#!/vizhome/MODULE14TABLEU/NYCStoryChallenge?publish=yes)
+[Tableau Link:Challenge](hhttps://public.tableau.com/profile/miguel.diaz4300#!/vizhome/MODULE14TABLEU/NYCStoryChallenge)
 
 ## Graph Summary
 
